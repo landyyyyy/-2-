@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  StaticLibSetTest.cpp
+  LINK : не найден или не выполнена сборка C:\Users\OchPuch\source\repos\SetApplication\x64\Debug\StaticLibSetTest.dll при последней инкрементной компоновке; выполняется полная компоновка
+     Создается библиотека C:\Users\OchPuch\source\repos\SetApplication\x64\Debug\StaticLibSetTest.lib и объект C:\Users\OchPuch\source\repos\SetApplication\x64\Debug\StaticLibSetTest.exp
+  StaticLibSetTest.vcxproj -> C:\Users\OchPuch\source\repos\SetApplication\x64\Debug\StaticLibSetTest.dll
