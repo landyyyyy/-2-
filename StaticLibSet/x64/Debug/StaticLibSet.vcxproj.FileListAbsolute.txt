@@ -1,1 +1,0 @@
-C:\Users\OchPuch\source\repos\StaticLibSet\x64\Debug\StaticLibSet.lib
